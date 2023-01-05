@@ -1,11 +1,13 @@
 /* lc-light */
 :root {
   --BOX-BLUE-color: #3c79b8; /* background color of blue boxes */
-  --BOX-GREEN-color: #62c08d; /* background color of green boxes */
+  --BOX-GREEN-color: #419f6a; /* background color of green boxes */
   --BOX-ORANGE-color: #df552d; /* background color of orange boxes */
   --CODE-BLOCK-BORDER-color: #d8d8d8; /* border color of block code */
   --CODE-BLOCK-color: #354a5f; /* fallback text color of block code; should be adjusted to your selected chroma style */
-  --CODE-INLINE-BORDER-color: #f8e8c8; /* border color of inline code */
+  --CODE-INLINE-BORDER-color: white; /* border color of inline code */
+  --CODE-INLINE-BG-color: white;
+  --CODE-INLINE-color: #419f6a;
   --MAIN-ANCHOR-color: #3c79b8; /* anchor color of titles */
   --MAIN-LINK-color: #3c79b8; /* link color of content */
   --MAIN-LINK-HOVER-color: #354a5f; /* hoverd link color of content */
